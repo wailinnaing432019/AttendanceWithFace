@@ -1,14 +1,14 @@
-🏫 Student Attendance System with Facial Recognition
-A real-time attendance system using Flask, DeepFace, MySQL, and OpenCV, designed for student check-in/out with face recognition.
+#🏫 Student Attendance System with Facial Recognition
+##A real-time attendance system using Flask, DeepFace, MySQL, and OpenCV, designed for student check-in/out with face recognition.
 
-📌 Features
-✅ Face Registration – Prevents duplicate registrations
-✅ Real-time Face Recognition – Uses DeepFace for accurate matching
-✅ Live Camera Feed – Detect & recognize faces instantly
-✅ Attendance Tracking – Check-in/out system (first entry = check-in, second entry = check-out)
-✅ Admin Panel – Modify student info, view attendance reports
-✅ Dashboard – Shows attendance summary with filters
-✅ Optimized Performance – Stores embeddings for faster recognition
+#📌 Features
+##✅ Face Registration – Prevents duplicate registrations
+##✅ Real-time Face Recognition – Uses DeepFace for accurate matching
+##✅ Live Camera Feed – Detect & recognize faces instantly
+##✅ Attendance Tracking – Check-in/out system (first entry = check-in, second entry = check-out)
+##✅ Admin Panel – Modify student info, view attendance reports
+##✅ Dashboard – Shows attendance summary with filters
+##✅ Optimized Performance – Stores embeddings for faster recognition
 
 🚀 Installation
 1️⃣ Clone the Repository
